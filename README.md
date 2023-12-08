@@ -1,5 +1,5 @@
 # CS 184A Final Project: Prediction Reactivities of RNA Structures
-Cheryl Chen, Timothy Pham, Araam Abutaha
+Group Members: Cheryl Chen, Timothy Pham, Araam Abutaha
 
 Stanford Ribonanza RNA Folding Kaggle Dataset: https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding .\
 Download dataset from Kaggle and put them in a `data` directory.
