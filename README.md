@@ -10,9 +10,10 @@ Download dataset from Kaggle and put them in a `data` directory.
 | Purpose             | Software |
 | :---------------- | :------: |
 | Data exploration, cleaning, and visualization      |   Pandas, Matplotlib, NumPy   |
-| Model training         |   PyTorch, Tensorflow, Keras, scikit-learn  |
+| Model training         |   Tensorflow, Keras, scikit-learn  |
 
 ## LSTM Model
 The LSTM model can be found in the notebook `lstm_model.ipynb`. NumPy, Pandas, Matplotlib, scikit-learn, Tensorflow, and Keras are used. 
 
 ## Transformer Model
+The Transformer model can be found in the notebook `transformer_model.ipynb`. NumPy, Pandas, Matplotlib, scikit-learn, Tensorflow, Keras, and Keras-NLP are used.
