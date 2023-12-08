@@ -1,6 +1,8 @@
 # CS 184A Final Project: Prediction Reactivities of RNA Structures
 
-Stanford Ribonanza RNA Folding Kaggle Dataset: https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding
+Stanford Ribonanza RNA Folding Kaggle Dataset: https://www.kaggle.com/competitions/stanford-ribonanza-rna-folding .\
+Download dataset from Kaggle and put them in a `data` directory.
+
 ## Overview
 (insert summary)
 
@@ -11,6 +13,6 @@ Stanford Ribonanza RNA Folding Kaggle Dataset: https://www.kaggle.com/competitio
 | Model training         |   PyTorch, Tensorflow, Keras, scikit-learn  |
 
 ## LSTM Model
-The LSTM model can be found in the notebook `lstm_model.ipynb`. Training data is located in `data` folder. NumPy, Pandas, Matplotlib, scikit-learn, Tensorflow, and Keras are used. 
+The LSTM model can be found in the notebook `lstm_model.ipynb`. NumPy, Pandas, Matplotlib, scikit-learn, Tensorflow, and Keras are used. 
 
 ## Transformer Model
