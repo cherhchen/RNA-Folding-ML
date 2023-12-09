@@ -18,6 +18,8 @@ Our project, RNA Folding: Predict Structures of Any RNA Molecule, focuses on the
 | Data exploration, cleaning, and visualization      |   Pandas, Matplotlib, NumPy   |
 | Model training         |   Tensorflow, Keras, scikit-learn  |
 
+Register for a Kaggle account and download the dataset listed above before running the project.
+
 ## LSTM Model
 The LSTM model can be found in the notebook `lstm_model.ipynb`. NumPy, Pandas, Matplotlib, scikit-learn, Tensorflow, and Keras are used. 
 
